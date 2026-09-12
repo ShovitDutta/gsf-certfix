@@ -1,7 +1,7 @@
 id=playfix_evergo
 name=GSF CertFix
-version=v2.5
-versionCode=16
+version=v2.6
+versionCode=17
 author=ShovitDutta
 description=One-tap GSF Android ID for Play Protect certification + optional Play Store reset.
 updateJson=https://raw.githubusercontent.com/ShovitDutta/gsf-certfix/main/update.json
