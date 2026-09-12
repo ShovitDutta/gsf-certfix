@@ -1,6 +1,6 @@
 {
   "version": "v2.2",
   "versionCode": 13,
-  "zipUrl": "https://gitlab.com/ShovitDutta1/gsf-certfix/-/raw/main/releases/GSF-CertFix-v2.2.zip",
+  "zipUrl": "https://github.com/ShovitDutta/gsf-certfix/releases/download/v2.2/GSF-CertFix-v2.2.zip",
   "changelog": "Visible version tag in Action header (OTA verification build)."
 }
