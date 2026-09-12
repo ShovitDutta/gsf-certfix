@@ -1,0 +1,6 @@
+{
+  "version": "v2.1",
+  "versionCode": 12,
+  "zipUrl": "https://gitlab.com/ShovitDutta1/gsf-certfix/-/raw/main/releases/GSF-CertFix-v2.1.zip",
+  "changelog": "OTA support via updateJson; plaintext Action UI; Vol+/Vol- menu (clear / clear+reboot)."
+}
