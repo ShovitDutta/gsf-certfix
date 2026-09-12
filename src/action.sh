@@ -22,7 +22,7 @@ BRED=""
 HDR="${CYN}════════════════════════════════${RST}"
 
 echo "$HDR"
-echo "${BCYN}   🔧  GSF CertFix v2.4  🔧${RST}"
+echo "${BCYN}   🔧  GSF CertFix v2.5  🔧${RST}"
 echo "$HDR"
 echo ""
 
